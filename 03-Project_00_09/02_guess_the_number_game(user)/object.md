@@ -1,0 +1,2 @@
+### Guess the Number Game Python Project (user)
+#### In this [Kylie Ying tutorial](https://www.youtube.com/watch?v=8ext9G7xspg&t=414s), you will build a guessing game where the computer has to guess the correct number. You will work with [Python's random module](https://docs.python.org/3/library/random.html), build functions, work with while loops and conditionals, and get user input.
