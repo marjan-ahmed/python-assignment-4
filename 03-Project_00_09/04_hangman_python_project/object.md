@@ -1,0 +1,2 @@
+## Hangman Python Project
+#### In this [Kylie Ying tutorial](https://www.youtube.com/watch?v=8ext9G7xspg&t=1465s), you will learn how to work with dictionaries, lists, and nested if statements. You will also learn how to work with the string and random Python modules.
