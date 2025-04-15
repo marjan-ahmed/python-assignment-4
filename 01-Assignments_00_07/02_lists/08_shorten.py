@@ -1,6 +1,7 @@
 max_length = 3
 
 def shorten_list(lst: list):
+    print("Your List:", lst)
     while len(lst) > max_length:
         lst.pop()
     print("Shorten List:", lst)
